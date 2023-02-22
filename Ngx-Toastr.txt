@@ -1,0 +1,3 @@
+https://www.npmjs.com/package/ngx-toastr
+
+https://angular.io/api/platform-browser/animations/BrowserAnimationsModule
